@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @jmr006
-- 🌱 I’m currently experimenting with flutter applications. 😁. 
-- I know this README is not too long, but that is all my CV. :/
+
